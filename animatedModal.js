@@ -52,6 +52,7 @@
 
         //Init styles
         var initStyles = {
+            'display': 'block',
             'position':settings.position,
             'width':settings.width,
             'height':settings.height,
